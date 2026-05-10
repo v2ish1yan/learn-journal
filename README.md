@@ -1,5 +1,7 @@
 <div align="center">
 
+[English](./README_EN.md) | **中文**
+
 # learning-journal
 
 **让每一次 AI 对话，都变成一节好课**
