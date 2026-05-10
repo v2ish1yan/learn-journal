@@ -163,7 +163,7 @@ learning-journal 生成的文档遵循严格的质量标准：
 本项目是一个 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill，可以：
 
 - 通过 `/learning-journal` 命令手动触发
-- 配置为上下文压缩前自动触发
+- ~~配置为上下文压缩前自动触发~~ 
 - 与其他 skill 配合使用
 
 ## 项目结构
